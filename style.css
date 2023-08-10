@@ -1,0 +1,8 @@
+html {
+    font-size: 18px;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Public Sans', sans-serif;
+}
